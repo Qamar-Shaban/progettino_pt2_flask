@@ -1,0 +1,16 @@
+#form-aggiungere {
+    max-width: 50%;
+    margin: auto;
+    padding: 10px;
+    border: 3px grey solid;
+    border-radius: 15px;
+}
+
+#zona-elementi {
+    max-width: 50%;
+    margin: auto;
+}
+
+li {
+    padding-bottom: 10px;
+}
